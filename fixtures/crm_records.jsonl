@@ -1,0 +1,10 @@
+{"company": "Northwind Labs", "email": "maya.chen@northwindlabs.com", "employees": 120, "first_name": "Maya", "last_name": "Chen", "lead_id": "C001", "source": "web", "state": "CA"}
+{"company": "Brightpath Health", "email": "jordan.ellis@brightpathhealth.com", "employees": 45, "first_name": "Jordan", "last_name": "Ellis", "lead_id": "C002", "source": "referral", "state": "NY"}
+{"company": "Cloudhaven Systems", "email": "priya.nair@cloudhaven.io", "employees": 300, "first_name": "Priya", "last_name": "Nair", "lead_id": "C003", "source": "web", "state": "WA"}
+{"company": "Summit Ridge Consulting", "email": "marcus.webb@summitridge.com", "employees": 18, "first_name": "Marcus", "last_name": "Webb", "lead_id": "C004", "source": "outbound", "state": "TX"}
+{"company": "Lumenfield Media", "email": "sofia.alvarez@lumenfield.com", "employees": 60, "first_name": "Sofia", "last_name": "Alvarez", "lead_id": "C005", "source": "event", "state": "FL"}
+{"company": "Aster Robotics", "email": "david.kim@asterrobotics.com", "employees": 85, "first_name": "David", "last_name": "Kim", "lead_id": "C006", "source": "partner", "state": "CA"}
+{"company": "Verdant Energy", "employees": 210, "first_name": "Elena", "last_name": "Petrova", "lead_id": "C007", "source": "web", "state": "CO"}
+{"company": "Harborline Logistics", "email": "aisha.bello@harborline.com", "employees": 95, "first_name": "Aisha", "last_name": "Bello", "lead_id": "C008", "source": "web", "state": "XX"}
+{"company": "Blueslate Finance", "email": "thomas.reed@blueslate.com", "employees": 40, "first_name": "Thomas", "last_name": "Reed", "lead_id": "C009", "source": "carrier-pigeon", "state": "MA"}
+{"company": "Ironpeak Manufacturing", "email": "nina.park@ironpeak.com", "employees": "many", "first_name": "Nina", "last_name": "Park", "lead_id": "C010", "source": "referral", "state": "IL"}
