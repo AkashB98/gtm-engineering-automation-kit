@@ -1,0 +1,173 @@
+{
+  "cases": [
+    {
+      "expected_rep": "cara_lind",
+      "lead": {
+        "company": "Aster Robotics",
+        "email": "dana.whitfield@asterrobotics.com",
+        "first_name": "Dana",
+        "last_name": "Whitfield",
+        "lead_id": "G01",
+        "source": "web",
+        "state": "CA"
+      },
+      "note": "account ownership beats west territory"
+    },
+    {
+      "expected_rep": "ana_ruiz",
+      "lead": {
+        "company": "Quartz Peak Software",
+        "email": "peter.lang@quartzpeak.com",
+        "first_name": "Peter",
+        "last_name": "Lang",
+        "lead_id": "G02",
+        "source": "web",
+        "state": "WA"
+      },
+      "note": "west round-robin pick 1"
+    },
+    {
+      "expected_rep": "sam_whitaker",
+      "lead": {
+        "company": "Quartz Peak Software",
+        "email": "lucia.gomez@quartzpeak.com",
+        "first_name": "Lucia",
+        "last_name": "Gomez",
+        "lead_id": "G03",
+        "source": "web",
+        "state": "CA"
+      },
+      "note": "west round-robin pick 2 \u2014 unowned accounts do not stick"
+    },
+    {
+      "expected_rep": "ana_ruiz",
+      "lead": {
+        "company": "Quartz Peak Software",
+        "email": "nora.fields@quartzpeak.com",
+        "first_name": "Nora",
+        "last_name": "Fields",
+        "lead_id": "G04",
+        "source": "web",
+        "state": "OR"
+      },
+      "note": "west round-robin pick 3 wraps to the first rep"
+    },
+    {
+      "expected_rep": "ben_osei",
+      "lead": {
+        "company": "Lone Star Analytics",
+        "email": "hank.doyle@lonestar.com",
+        "first_name": "Hank",
+        "last_name": "Doyle",
+        "lead_id": "G05",
+        "source": "web",
+        "state": "TX"
+      },
+      "note": "central round-robin pick 1"
+    },
+    {
+      "expected_rep": "ben_osei",
+      "lead": {
+        "company": "Northwind Labs",
+        "email": "ruth.adler@northwindlabs.com",
+        "first_name": "Ruth",
+        "last_name": "Adler",
+        "lead_id": "G06",
+        "source": "web",
+        "state": "IL"
+      },
+      "note": "account ownership beats central round-robin"
+    },
+    {
+      "expected_rep": "nina_kowalski",
+      "lead": {
+        "company": "Lone Star Analytics",
+        "email": "omar.reyes@lonestar.com",
+        "first_name": "Omar",
+        "last_name": "Reyes",
+        "lead_id": "G07",
+        "source": "web",
+        "state": "TX"
+      },
+      "note": "central round-robin pick 2"
+    },
+    {
+      "expected_rep": "cara_lind",
+      "lead": {
+        "company": "Hudson Legal Group",
+        "email": "emily.zhang@hudsonlegal.com",
+        "first_name": "Emily",
+        "last_name": "Zhang",
+        "lead_id": "G08",
+        "source": "web",
+        "state": "NY"
+      },
+      "note": "east round-robin pick 1"
+    },
+    {
+      "expected_rep": "cara_lind",
+      "lead": {
+        "company": "Aster Robotics",
+        "email": "victor.chen@asterrobotics.com",
+        "first_name": "Victor",
+        "last_name": "Chen",
+        "lead_id": "G09",
+        "source": "web",
+        "state": "MA"
+      },
+      "note": "ownership again; cara_lind reaches capacity exactly"
+    },
+    {
+      "expected_rep": "omar_haddad",
+      "lead": {
+        "company": "Hudson Legal Group",
+        "email": "grace.nolan@hudsonlegal.com",
+        "first_name": "Grace",
+        "last_name": "Nolan",
+        "lead_id": "G10",
+        "source": "web",
+        "state": "NJ"
+      },
+      "note": "east round-robin pick 2"
+    },
+    {
+      "expected_rep": "devon_park",
+      "lead": {
+        "company": "Palmetto Travel",
+        "email": "carlos.mendez@palmettotravel.com",
+        "first_name": "Carlos",
+        "last_name": "Mendez",
+        "lead_id": "G11",
+        "source": "web",
+        "state": "FL"
+      },
+      "note": "south round-robin pick 1"
+    },
+    {
+      "expected_rep": "grace_liu",
+      "lead": {
+        "company": "Palmetto Travel",
+        "email": "beth.sullivan@palmettotravel.com",
+        "first_name": "Beth",
+        "last_name": "Sullivan",
+        "lead_id": "G12",
+        "source": "web",
+        "state": "GA"
+      },
+      "note": "south round-robin pick 2"
+    },
+    {
+      "expected_rep": null,
+      "lead": {
+        "company": "Quartz Peak Software",
+        "email": "ivan.petrov@quartzpeak.com",
+        "first_name": "Ivan",
+        "last_name": "Petrov",
+        "lead_id": "G13",
+        "source": "web",
+        "state": "XX"
+      },
+      "note": "unknown territory is unassigned, never guessed"
+    }
+  ]
+}
