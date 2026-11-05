@@ -1,0 +1,34 @@
+lead_id,first_name,last_name,email,company,state,source
+L026,Alex,Morgan,alex.morgan@cloudhaven.io,Cloudhaven Systems,WA,web
+L006,J.,Ellis,jellis@brightpathhealth.com,Brightpath Health,NY,partner
+L012,Sofia,Alvarez,sofia.alvarez@lumenfield.com,"Lumenfield Media, Inc.",FL,web
+L017,Elena,Petrova,elena.petrova@verdantenergy.com,Verdant Energy LLC,CO,partner
+L025,Alex,Morgan,alex.morgan@verdantenergy.com,Verdant Energy,OR,web
+L013,Sofia,Alvares,sofia.alvares@lumenfield.com,Lumenfield Media,FL,event
+L021,Aisha,Bello,aisha.bello@harborline.com,"Harborline Logistics, Inc.",GA,event
+L016,Elena,Petrova,elena.petrova@verdantenergy.com,Verdant Energy,CO,web
+L011,Sofia,Alvarez,sofia.alvarez@lumenfield.com,Lumenfield Media,FL,event
+L015,David,Kim,d.kim@asterrobotics.com,"Aster Robotics, Inc.",CA,web
+L020,Aisha,Bello,aisha.bello@harborline.com,Harborline Logistics,GA,web
+L023,Tom,Reed,tom.reed@blueslate.com,Blueslate Finance,MA,referral
+L010,Marcus,Web,marcus.webb@summitridge.com,Summit Ridge Consulting LLC,TX,referral
+L028,Chris,Novak,chris.novak@pinecrest.com,Pinecrest Legal,NJ,outbound
+L033,Kate,Voss,kate.v@silveroak.com,Silveroak Ptrs,CA,referral
+L007,Priya,Nair,priya.nair@cloudhaven.io,"Cloudhaven Systems, Inc.",WA,web
+L024,Derek,Shaw,derek.shaw@northwindlabs.com,Northwind Labs,WA,web
+L001,Maya,Chen,maya.chen@northwindlabs.com,"Northwind Labs, Inc.",CA,web
+L030,Liam,Ortiz,liam.ortiz@blueslate.com,Blueslate Finance,MA,web
+L014,David,Kim,david.kim@asterrobotics.com,Aster Robotics,CA,outbound
+L019,Bob,Hargrove,bob.hargrove@ironpeak.com,Ironpeak Manufacturing,IL,referral
+L003,Maya,Chan,,Northwind Labs LLC,CA,event
+L018,Robert,Hargrove,robert.hargrove@ironpeak.com,Ironpeak Manufacturing,IL,outbound
+L022,Thomas,Reed,thomas.reed@blueslate.com,Blueslate Finance,MA,web
+L004,Jordan,Ellis,jordan.ellis@brightpathhealth.com,Brightpath Health,NY,web
+L029,Fatima,Sy,fatima.sy@harborline.com,Harborline Logistics,GA,partner
+L005,Jordan,Ellis,jordan.ellis@brightpathhealth.com,"Brightpath Health, Inc.",NY,outbound
+L027,Hannah,Brooks,hannah.brooks@summitridge.com,Summit Ridge Consulting,TX,event
+L031,Nina,Park,nina.park@ironpeak.com,Ironpeak Manufacturing,IL,referral
+L009,Marcus,Webb,marcus.webb@summitridge.com,Summit Ridge Consulting,TX,referral
+L032,Katherine,Voss,katherine.voss@silveroak.com,Silveroak Partners,CA,web
+L002,MAYA,CHEN,maya_chen@northwindlabs.com,Northwind Labs,CA,referral
+L008,Priya,Nair,priya.nair@cloudhaven.com,Cloudhaven Systems,WA,web
